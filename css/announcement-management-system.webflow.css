@@ -1,0 +1,66 @@
+.nav-link {
+  color: #fff;
+}
+
+.nav-link-2 {
+  color: #fff;
+}
+
+.nav-link-3 {
+  color: #fff;
+}
+
+.container {
+  background-color: #000;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#000), to(#fff));
+  background-image: linear-gradient(180deg, #000, #fff);
+  color: #000;
+}
+
+.navbar {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#000), to(#fff));
+  background-image: linear-gradient(180deg, #000, #fff);
+  color: #000;
+}
+
+.heading {
+  background-color: #ffaf06;
+  text-align: center;
+}
+
+.grid {
+  grid-template-areas: "Area";
+}
+
+.button {
+  text-align: center;
+}
+
+.div-block {
+  text-align: center;
+}
+
+.heading-2 {
+  text-align: center;
+}
+
+.heading-3 {
+  text-align: center;
+}
+
+.link {
+  text-align: center;
+}
+
+.column {
+  text-align: right;
+}
+
+.search-button {
+  background-color: #ffaf06;
+  color: #fff;
+}
+
+.search {
+  text-align: center;
+}
